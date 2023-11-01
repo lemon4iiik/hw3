@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">hw3-1</string>
+    <string name="pizza_image">pizza</string>
+    <string name="pasta">pasta</string>
 </resources>

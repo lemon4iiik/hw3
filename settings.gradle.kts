@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "hw3-1"
 include(":app")
- 
