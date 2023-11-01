@@ -32,14 +32,5 @@ class MainActivity : AppCompatActivity() {
         foodList.add(Food(R.drawable.paneer,"Mini Pizza"))
         foodList.add(Food(R.drawable.paste,"suwi"))
         foodList.add(Food(R.drawable.pizza_spagethi,"pizza_spagethi"))
-
-//        foodList.add(Food(R.drawable.pizza1,"chicken Pizza"))
-//        foodList.add(Food(R.drawable.pizza2,"Beef Chicken"))
-//        foodList.add(Food(R.drawable.noodles1,"normal Pizza"))
-//        foodList.add(Food(R.drawable.noodles2,"sweet Chicken"))
-//        foodList.add(Food(R.drawable.paneer,"Mini Pizza"))
-//        foodList.add(Food(R.drawable.pasta,"Extra Chicken"))
-//        foodList.add(Food(R.drawable.pizza_spagethi,"meat Pizza"))
-//        foodList.add(Food(R.drawable.pizza3,"vegez Chicken"))
     }
 }
